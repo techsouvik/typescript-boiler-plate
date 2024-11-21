@@ -4,7 +4,7 @@ A production-ready microservice boilerplate with TypeScript, Express, MongoDB, R
 
 ## How to use it
 
--type in console
+Type the command given below in console
 
 ```
 bun create https://github.com/techsouvik/typescript-boiler-plate

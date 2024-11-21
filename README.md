@@ -2,6 +2,14 @@
 
 A production-ready microservice boilerplate with TypeScript, Express, MongoDB, Redis, and OAuth2 authentication.
 
+## How to use it
+
+-type in console
+
+```
+bun create https://github.com/techsouvik/typescript-boiler-plate
+```
+
 ## Directory Structure
 
 ```
